@@ -2,8 +2,7 @@ const graphql = require('graphql')
 const {
   GraphQLObjectType,
   GraphQLString,
-  GraphQLBoolean,
-  GraphQLFloat
+  GraphQLBoolean
 } = graphql
 
 const TransactionType = new GraphQLObjectType({
@@ -15,7 +14,8 @@ const TransactionType = new GraphQLObjectType({
     merchant_id: { type: GraphQLString },
     debit: { type: GraphQLBoolean },
     credit: { type: GraphQLBoolean },
-    amount: { type: GraphQLFloat }
+	  amount: { type: GraphQLString },
+	  timestamp: { type: GraphQLString }
   })
 })
 

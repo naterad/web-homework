@@ -1,0 +1,51 @@
+id,user_id,description,merchant_id,debit,credit,amount,timestamp,dob,firstName,lastName,merchantName
+1,1,Supplies for the company retreat.,1,TRUE,FALSE,34.56,1572118921,3/14/72,John,Stockton,Target
+2,1,Supplies for the company retreat.,1,TRUE,FALSE,289.32,1572108921,3/14/72,John,Stockton,Target
+3,1,Supplies for the company retreat.,1,TRUE,FALSE,2.33,1572198921,3/14/72,John,Stockton,Target
+4,1,Fixing the office.,2,FALSE,TRUE,89.99,1570118921,3/14/72,John,Stockton,Lowes
+5,1,Supplies for the office.,3,TRUE,FALSE,800.33,1569118921,3/14/72,John,Stockton,Home Depot
+6,1,Supplies for the office.,4,TRUE,FALSE,289.02,1560118921,3/14/72,John,Stockton,Walmart
+7,1,Feeding the team.,4,TRUE,FALSE,22.34,1560118921,3/14/72,John,Stockton,Walmart
+8,2,Supplies for the office.,1,TRUE,FALSE,45.56,1572118921,7/2/76,Jack,Dorsey,Target
+9,2,Supplies for the office.,1,TRUE,FALSE,334.55,1572526921,7/2/76,Jack,Dorsey,Target
+10,2,Supplies for the office.,4,TRUE,FALSE,595.55,1569526921,7/2/76,Jack,Dorsey,Walmart
+11,2,Supplies for the office.,4,TRUE,FALSE,2290.33,1569326921,7/2/76,Jack,Dorsey,Walmart
+12,2,Supplies for the office.,4,TRUE,FALSE,223.55,1569523921,7/2/76,Jack,Dorsey,Walmart
+13,2,Supplies for the office.,4,TRUE,FALSE,6600.33,1560118921,7/2/76,Jack,Dorsey,Walmart
+14,2,Feeding the team.,5,TRUE,FALSE,22.32,1566848521,7/2/76,Jack,Dorsey,R&R BBQ
+15,2,Feeding the team.,5,FALSE,TRUE,156.09,1566847521,7/2/76,Jack,Dorsey,R&R BBQ
+16,2,Feeding the team.,5,TRUE,FALSE,667.04,1567848521,7/2/76,Jack,Dorsey,R&R BBQ
+17,2,Feeding the team.,5,TRUE,FALSE,784.09,1566842521,7/2/76,Jack,Dorsey,R&R BBQ
+18,2,Feeding the team.,2,TRUE,FALSE,34.56,1568848521,7/2/76,Jack,Dorsey,Lowes
+19,3,Supplies for the office.,2,TRUE,FALSE,289.32,1572118921,9/22/69,Elon,Musk,Lowes
+20,3,Supplies for the office.,2,TRUE,FALSE,2.33,1572119921,9/22/69,Elon,Musk,Lowes
+21,3,Supplies for the office.,4,FALSE,TRUE,89.99,1572218921,9/22/69,Elon,Musk,Walmart
+22,3,Feeding the team.,5,TRUE,FALSE,800.33,1569118921,9/22/69,Elon,Musk,R&R BBQ
+23,4,Feeding the team.,5,TRUE,FALSE,289.02,1572118921,1/10/80,Susan,Peterson,R&R BBQ
+24,4,Feeding the team.,5,TRUE,FALSE,22.33,1572118921,1/10/80,Susan,Peterson,R&R BBQ
+25,4,Feeding the team.,5,TRUE,FALSE,478.44,1569526321,1/10/80,Susan,Peterson,R&R BBQ
+26,4,Supplies for the office.,1,FALSE,TRUE,3933.44,1569526921,1/10/80,Susan,Peterson,Target
+27,4,Supplies for the office.,1,TRUE,FALSE,9988.44,1569526421,1/10/80,Susan,Peterson,Target
+28,4,Supplies for the office.,1,TRUE,FALSE,2992.35,1569521921,1/10/80,Susan,Peterson,Target
+29,4,Supplies for the office.,1,TRUE,FALSE,30.41,1566948521,1/10/80,Susan,Peterson,Target
+30,4,Fixing the office.,1,TRUE,FALSE,39.94,1566848521,1/10/80,Susan,Peterson,Target
+31,4,Fixing the office.,2,TRUE,FALSE,890.43,1566948521,1/10/80,Susan,Peterson,Lowes
+32,4,Fixing the office.,2,FALSE,TRUE,34.56,1570848521,1/10/80,Susan,Peterson,Lowes
+33,4,Supplies for the office.,7,TRUE,FALSE,289.32,1560848521,1/10/80,Susan,Peterson,Smiths
+34,4,Treat for everyone.,4,TRUE,FALSE,2.33,1562848521,1/10/80,Susan,Peterson,Walmart
+35,4,Supplies for the office.,4,TRUE,FALSE,89.99,1556848521,1/10/80,Susan,Peterson,Walmart
+36,4,Supplies for the office.,4,TRUE,FALSE,800.33,1556848521,1/10/80,Susan,Peterson,Walmart
+37,4,Treat for everyone.,6,FALSE,TRUE,289.02,1564848521,1/10/80,Susan,Peterson,Waffle Love
+38,5,Supplies for the office.,7,TRUE,FALSE,22.36,1572118921,10/11/75,Ryan,Smith,Smiths
+39,5,Supplies for the office.,8,TRUE,FALSE,333.44,1569522921,10/11/75,Ryan,Smith,Harmons
+40,5,Supplies for the office.,1,TRUE,FALSE,90.22,1569526921,10/11/75,Ryan,Smith,Target
+41,6,Treat for everyone.,1,TRUE,FALSE,292.39,1569526921,2/8/65,Josh,James,Target
+42,6,Fixing the office.,3,TRUE,FALSE,15.22,1569526921,2/8/65,Josh,James,Home Depot
+43,6,Treat for everyone.,7,TRUE,FALSE,299.44,1572118921,2/8/65,Josh,James,Smiths
+44,6,Treat for everyone.,8,FALSE,TRUE,34.56,156952921,2/8/65,Josh,James,Harmons
+45,6,Treat for everyone.,8,TRUE,FALSE,289.32,1569516921,2/8/65,Josh,James,Harmons
+46,6,Treat for everyone.,8,TRUE,FALSE,2.33,1566848521,2/8/65,Josh,James,Harmons
+47,7,Treat for everyone.,9,TRUE,FALSE,89.99,1572118921,5/3/85,Sid ,Krommenhoek,Wendys
+48,8,Fixing the office.,2,TRUE,FALSE,800.33,1572118921,9/13/85,Michelle,Kaufusi,Lowes
+49,9,Fixing the office.,3,TRUE,FALSE,289.02,1569526921,4/21/90,Klayton,Kershaw,Home Depot
+50,10,Treat for everyone.,9,TRUE,FALSE,22.37,1569526921,12/25/70,Magic ,Johnson,Wendys

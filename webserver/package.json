@@ -7,7 +7,7 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "start": "./bin/app",
+		"start": "./bin/app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
@@ -19,6 +19,7 @@
     "graphql": "^14.3.1",
     "http-errors": "^1.7.2",
     "mongoose": "^5.5.15",
+    "node": "^11.15.0",
     "pino": "^5.12.6",
     "pino-http": "^4.2.0",
     "pino-pretty": "^3.1.0",
